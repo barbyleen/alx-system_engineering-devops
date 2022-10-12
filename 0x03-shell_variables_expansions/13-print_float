@@ -1,2 +1,2 @@
 #!/bin/bash
-printf("%0.2f\n",my float) $NUM
+printf("%0.2f\n") $NUM
