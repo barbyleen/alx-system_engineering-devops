@@ -1,2 +1,2 @@
 #!/bin/bash
-printf("%.2f",my float)
+printf("%.2f",my float) $NUM
